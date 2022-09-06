@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ConnectToQueue": "[YOUR_CONNECTION_STRING]",
+    "ConnectToServiceBus": "[YOUR_CONNECTION_STRING]"
+  }
+}
